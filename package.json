@@ -1,0 +1,23 @@
+{
+  "name": "distance-invite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysovkos/distance-invite.git"
+  },
+  "author": "Agent K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denysovkos/distance-invite/issues"
+  },
+  "homepage": "https://github.com/denysovkos/distance-invite#readme",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
